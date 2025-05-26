@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>아이스누디 옹탑 상세페이지</title>
+  <style>
+    body { font-family: '맑은 고딕', Arial, sans-serif; background:#f7fafd; color:#222; margin:38px;}
+    .main { max-width:900px; margin:0 auto; }
+    section { background: #fff; border-radius: 16px; box-shadow: 0 4px 18px rgba(0,0,0,0.04); margin-bottom: 34px; padding: 30px 36px; }
+    h1 { color:#225399; margin-bottom:22px; }
+    h2 { color:#1c2957; margin-bottom:12px; font-size:1.2em; }
+    .point { color:#227bc6; font-weight:bold; }
+    .copy { font-size:1.18em; margin-bottom:12px; }
+    .statlist li { margin-bottom:7px;}
+    .table { width:100%; border-collapse:collapse; margin: 16px 0;}
+    .table th, .table td { border:1px solid #dde7ee; padding:10px 14px;}
+    .table th { background:#f2f7fd;}
+    .faq { margin: 16px 0 0 0;}
+    .faq-title { color: #3477eb; font-weight:bold;}
+    .faq-q { margin-top:14px; font-weight:bold;}
+    .faq-a { margin-left:16px; margin-bottom:10px;}
+  </style>
+</head>
+<body>
+  <div class="main">
+    <h1>아이스누디 옹탑 – 여름을 시원하게, 핏은 슬림하게!</h1>
+
+    <section>
+      <div class="copy">매일 입고 싶은 시원함, 슬림핏, 그리고 부드러움. <b class="point">아이스누디 옹탑</b>은 운동, 일상, 그리고 데일리 레이어드까지 완벽하게 소화하는 냉감 탑입니다.</div>
+      <div class="copy">한 번 입으면 계속 찾게 되는 이유? 실제 고객이 인정한 원단의 시원함, 우수한 신축성, 세련된 슬림핏 그리고 믿고 사는 착용감 때문입니다.</div>
+    </section>
+
+    <section>
+      <h2>실제 구매 고객 후기</h2>
+      <ul>
+        <li>[블랙 S80] S주문했는데 엄청 스판 슬림핏이에요. M사이즈가 더 잘 맞을 것 같네요. 좀 더 살 빼서 입어야겠어요.</li>
+        <li>[블랙 S80] 편합니다. 잘 입을게요~~~~~</li>
+        <li>[화이트 90L] 색상이 너무 이뻐요. 더워지면 입으려고 샀는데 넓은 어깨가 더 넓어보이는 것 같아요. 친절한 상담에 핏감, 착용감 모두 만족!</li>
+        <li>[블랙 85M] 운동할 때 입으려고 샀는데 원단도 좋고 사이즈도 잘 맞아요.</li>
+        <li>[화이트 S80] 흰색은 처음 구매해 봤는데 괜찮네요. 다음에 또 구매할 것 같아요.</li>
+        <li>[블랙 85M] 여름에 입고 요가하기 좋아요~</li>
+        <li>[화이트 85M] 사이즈 고민하다가 M 품절로 S 샀는데 만족합니다.</li>
+        <li>[블랙 S80] 하진솨 동일 이쁘고 부드럽습니다.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>아이스누디 옹탑의 장점 & 활용법</h2>
+      <ul>
+        <li><b>시원함:</b> 냉감 소재로 땀을 빨리 말리고, 여름철 데일리, 운동, 등산, 요가까지 무더위 걱정 없이 쾌적하게.</li>
+        <li><b>신축성/슬림핏:</b> 스판이 뛰어나서 몸에 자연스럽게 감기며, 과하지 않은 슬림핏으로 바디라인을 살려줌.</li>
+        <li><b>부드러움:</b> 피부에 자극 없는 소재, 장시간 착용에도 쾌적.</li>
+        <li><b>활용도:</b> 운동(요가/필라테스/런닝), 레이어드, 일상 캐주얼, 선물까지 다양하게 활용 가능.</li>
+        <li><b>색상 선택:</b> 블랙, 화이트 모두 실물이 더 예쁘고, 어떤 룩에도 어울림.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>자주 묻는 질문(FAQ)</h2>
+      <div class="faq">
+        <div class="faq-q">Q. 사이즈가 애매할 땐 어떻게 선택하나요?</div>
+        <div class="faq-a">A. 슬림핏/스판이 강해 정사이즈 또는 여유 있게 입고 싶을 땐 한 치수 크게 추천드립니다.</div>
+        <div class="faq-q">Q. 흰색은 비침이 있나요?</div>
+        <div class="faq-a">A. 밝은 이너 착용 시 비침이 덜하며, 흰색임에도 실사용자 만족도가 높습니다.</div>
+        <div class="faq-q">Q. 여름에 진짜 시원한가요?</div>
+        <div class="faq-a">A. 실제 고객들이 “여름 요가, 운동에 최고”, “땀이 나도 금방 마른다”고 후기를 남겼습니다.</div>
+        <div class="faq-q">Q. 세탁, 관리법은?</div>
+        <div class="faq-a">A. 찬물 단독 세탁 및 자연 건조 권장, 장기간 원단 유지 가능합니다.</div>
+        <div class="faq-q">Q. 피부 자극 없나요?</div>
+        <div class="faq-a">A. 부드러운 냉감 원단이라 피부가 민감한 분도 걱정 없이 착용 가능합니다.</div>
+      </div>
+    </section>
+
+    <section>
+      <h2>별점 및 키워드 통계</h2>
+      <ul class="statlist">
+        <li><b>평균 별점:</b> 4.6점 (5점: 7건, 4점: 4건)</li>
+        <li><b>긍정 리뷰 비율:</b> 90% 이상</li>
+        <li><b>자주 언급된 키워드:</b> "좋아요", "편하다", "예쁘다", "부드럽다", "스판", "색상", "원단", "슬림핏", "운동", "만족"</li>
+        <li><b>부정 리뷰:</b> 실제 불만족/단점은 거의 없음. 사이즈 고민은 '스판/한 치수 업'으로 해결 가능</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>일반 냉감탑과 비교</h2>
+      <table class="table">
+        <tr>
+          <th>항목</th>
+          <th>아이스누디 옹탑</th>
+          <th>일반 냉감탑</th>
+        </tr>
+        <tr>
+          <td>착용감</td>
+          <td><b>부드럽고, 신축성 탁월</b></td>
+          <td>보통/일부 뻣뻣함</td>
+        </tr>
+        <tr>
+          <td>슬림핏</td>
+          <td><b>자연스러운 슬림핏</b></td>
+          <td>다소 루즈하거나 압박</td>
+        </tr>
+        <tr>
+          <td>활용도</td>
+          <td><b>운동+일상+선물용</b></td>
+          <td>주로 운동/실내용</td>
+        </tr>
+        <tr>
+          <td>피부 자극</td>
+          <td>거의 없음</td>
+          <td>간혹 거침/까슬함</td>
+        </tr>
+        <tr>
+          <td>고객 만족</td>
+          <td><b>매우 높음</b></td>
+          <td>보통</td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <h2>구매 추천/사용팁</h2>
+      <ul>
+        <li>운동할 때는 물론 일상에서도 매일 입고 싶은 냉감탑</li>
+        <li>여름철 땀이 많거나 실내외 모두 자주 입는 분께 적극 추천</li>
+        <li>사이즈 고민 시, 여유로운 핏을 원하면 한 사이즈 업도 추천</li>
+        <li>화이트는 다양한 룩에 매치, 블랙은 날씬한 라인 연출</li>
+        <li>선물용/가족 공동 구매도 만족도 높음</li>
+      </ul>
+    </section>
+
+    <section>
+      <div class="copy"><b>아이스누디 옹탑</b>과 함께라면, 한여름에도 시원함과 스타일을 모두 챙길 수 있습니다.<br>최고의 냉감, 최고의 만족 – 지금 바로 경험하세요!</div>
+    </section>
+  </div>
+</body>
+</html>
